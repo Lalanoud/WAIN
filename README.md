@@ -38,7 +38,6 @@ This allows users to explore suitable options based on criteria such as:
 🕐 Opening hours
 
 🛠️ Technologies
-
 Python
 Streamlit
 PostgreSQL
