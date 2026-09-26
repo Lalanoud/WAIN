@@ -37,12 +37,12 @@ This allows users to explore suitable options based on criteria such as:
 👨‍👩‍👧 Family-friendly preferences
 🕐 Opening hours
 
-🛠️ Technologies
+🛠️ Technologies:
 Python
-Streamlit
-PostgreSQL
-AI Agent
-Natural Language Processing
+,Streamlit
+,PostgreSQL
+,AI Agent
+,Natural Language Processing
 
 👩🏻‍💻 My Role — Alanoud Alotaibi
 
